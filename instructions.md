@@ -19,7 +19,7 @@ How to use the server:
 - Cohort channels and squad channels. 
 - community channels. 
 - The Q 
- - Provide some detail on the error!
+ - Provide some detail on the error/question so that staff can help better!
 - Breakout rooms. 
  - pair programming. 
 - staff rooms
