@@ -49,6 +49,6 @@ Further study, resources, demos.
 
 You'll be working with pairs that I will send out today. 
 
-Try and pair Mac and Windows users for this exercise. 
+Try and pair Mac and Windows users for this exercise. Have mentors assemble pairs based on OS from student info on Frodo. 
 
 Remind of EoD review. 
